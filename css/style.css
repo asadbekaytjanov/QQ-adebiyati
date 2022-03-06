@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: 	rgb(136, 176, 75);
+    background-image: url('../img/Flag_of_Karakalpakstan.svg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    top: 100px !important;
+    position: relative;
+    width: 460px;
+    margin: 0 auto;
+    border: 0.2rem solid #fff;
+    border-radius: 2rem;
+    padding: 0.4em;
+    box-shadow: 0 0 .2rem #fff,
+                0 0 .2rem #fff,
+                0 0 2rem #bc13fe,
+                0 0 0.8rem #bc13fe,
+                0 0 2.8rem #bc13fe,
+                inset 0 0 1.3rem #bc13fe;
+  }
